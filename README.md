@@ -181,5 +181,8 @@ Portanto, entre espaços de Banach, um operador linear é **contínuo se, e some
 
 ---
 
+**Link do NotebookLM:**
+- https://notebook.google.com/notebook/b018d429-770b-4987-8447-f620a6e56b4d
+
 > 💡 **Nota sobre a escolha do tema:**  
 > Este assunto foi escolhido propositalmente devido ao fato de modelos de IA frequentemente apresentarem alucinações conceituais em tópicos de Matemática Avançada. A utilização do NotebookLM com fontes acadêmicas rigorosas garantiu respostas precisas, com rigor formal e fundamentação teórica sólida.
