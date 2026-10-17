@@ -64,6 +64,11 @@ Perguntas e Respostas:
   * **Espaço \\(c_{00}\\):** O espaço de todas as sequências eventualmente nulas, equipado com a norma do supremo \\(\|\cdot\|_\infty\\), não é de Banach porque não é fechado em \\(c_0\\) (uma sequência de \\(c_{00}\\) pode convergir para uma sequência de \\(c_0\\) que possui infinitos termos não-nulos).
   * **\\((C^1([a, b]), \|\cdot\|_\infty)\\):** Se munirmos o espaço das funções continuamente diferenciáveis apenas com a norma do supremo \\(\|\cdot\|_\infty\\) (em vez da norma \\(C^1\\)), ele não será um espaço de Banach, pois o limite uniforme de funções \\(C^1\\) é contínuo, mas pode não ser diferenciável.
 
+Fontes utilizadas:
+
+- Notas de Aula da Professora
+- Fundamentos de Análise Funcional - Geraldo Botelho, Daniel Pellegrino e Eduardo Teixeira
+
 </details>
 
   P: O espaço C^{1}([a,b]) munido da norma || f ||\_{1} = ||f||\_{infinito} + ||f'||\_{infinito} é um Espaço de Banach? Por que?
@@ -123,6 +128,12 @@ Por fim, calcula-se a distância entre \\(f_n\\) e \\(f\\) na norma \\(C^1\\):
 \\[\|f_n - f\|_{C^1} = \|f_n - f\|_\infty + \|f'_n - f'\|_\infty = \|f_n - f\|_\infty + \|f'_n - g\|_\infty \longrightarrow 0 \quad \text{quando } n \to \infty\\].
 
 Como toda sequência de Cauchy em \\((C^1([a,b]), \|\cdot\|_{C^1})\\) converge na própria norma \\(C^1\\) para um elemento de \\(C^1([a,b])\\), o espaço é completo e, portanto, **é um espaço de Banach**.
+
+Fontes utilizadas:
+
+- Notas de Aula da Professora
+- Fundamentos de Análise Funcional - Geraldo Botelho, Daniel Pellegrino e Eduardo Teixeira
+
   
   </details>
 
@@ -151,6 +162,11 @@ Para demonstrar que a continuidade de \\(T\\) implica que \\(G(T)\\) é fechado,
 4. Como o conjunto \\(\{0\}\\) é fechado em \\(\mathbb{R}\\) e a função \\(f\\) é contínua, a pré-imagem \\(f^{-1}(\{0\})\\) é um subconjunto fechado no espaço \\(X \times Y\\).
 
 Portanto, entre espaços de Banach, um operador linear é **contínuo se, e somente se, o seu gráfico for fechado**.
+
+Fontes utilizadas:
+
+- Notas de Aula da Professora
+- Fundamentos de Análise Funcional - Geraldo Botelho, Daniel Pellegrino e Eduardo Teixeira
   
   </details>
 OBS: Escolhi este assunto pois as IAs frequentemente têm alucinações quando perguntadas sobre algumas coisas na Matemática, principalmente em matérias um pouco mais avançadas do curso.
